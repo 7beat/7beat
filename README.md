@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Cześć, jestem Tomek👋
+Back-end-Developer.
+
+Studiuje na WSB w Gdańsku.
+
+🔭 Aktualnie pracuję nad botem do discorda
+🌱 Uczę się .NET Core & Framework
+📫 Skontaktuj się ze mną t_krzem123@wp.pl
