@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-###Cześć, jestem Tomek👋
+### Cześć, jestem Tomek👋
 Back-end-Developer.
 
 Studiuje na WSB w Gdańsku.
