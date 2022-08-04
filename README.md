@@ -19,6 +19,6 @@ Back-end-Developer.
 
 Studiuje na WSB w Gdańsku.
 
-🔭 Aktualnie pracuję nad botem do discorda
-🌱 Uczę się .NET Core & Framework
-📫 Skontaktuj się ze mną t_krzem123@wp.pl
+- 🔭 Aktualnie pracuję nad botem do discorda
+- 🌱 Uczę się .NET Core & ASP .NET Core
+- 📫 Skontaktuj się ze mną t_krzem123@wp.pl
