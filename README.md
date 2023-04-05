@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Cześć, jestem Tomek👋
+### Hi there, I'm Tomek👋
 Back-end-Developer.
 
-Studiuje na WSB w Gdańsku.
+I study at WSB in Gdańsk
 
-- 🔭 Aktualnie pracuję nad botem do discorda
-- 🌱 Uczę się .NET Core & ASP .NET Core
-- 📫 Skontaktuj się ze mną t_krzem123@wp.pl
+- 🔭 Currently I'm working on Ecommerce Web app
+- 🌱 I’m currently learning .NET Core & ASP .NET Core
+- 📫 Reach me at: tomaszkrzeminski123@gmail.com
