@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 -->
 
 ### Hi there, I'm Tomek👋
-Back-end-Developer.
+Junior Backend Developer.
 
 I study at WSB in Gdańsk
 
-- 🔭 Currently I'm working on Ecommerce Web app
-- 🌱 I’m currently learning .NET Core & ASP .NET Core
+- 🔭 Currently I'm working on Mobile Games
+- 🌱 I’m currently learning ASP .NET Core & Azure
 - 📫 Reach me at: tomaszkrzeminski123@gmail.com
